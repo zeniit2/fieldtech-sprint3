@@ -1,0 +1,9 @@
+id_trecho,rodovia,km_inicial,km_final,sentido,tipo_terreno,inclinacao_media_graus,area_m2
+1,SP-330 Anhanguera,32,33.5,Norte,plano,3,4500
+2,SP-330 Anhanguera,58,59,Sul,ondulado,8.5,3000
+3,SP-348 Bandeirantes,45,46.2,Norte,plano,2.5,3600
+4,SP-348 Bandeirantes,71,72,Sul,inclinado,14,3000
+5,SP-280 Castello Branco,24,25.5,Oeste,ondulado,9,4500
+6,SP-280 Castello Branco,88,88.8,Leste,inclinado,17,2400
+7,BR-116 Via Dutra,210,211.4,Norte,plano,4,4200
+8,BR-116 Via Dutra,163,164,Sul,inclinado,15.5,3000

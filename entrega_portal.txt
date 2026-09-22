@@ -1,0 +1,13 @@
+3º ENTREGÁVEL – FIELDTECH ENGINEERING CHALLENGE
+Sprint 3 – SQL aplicado ao Challenge MOTIVA / CCR
+Data Science for Engineers – FIAP – Engenharia Mecatrônica
+
+INTEGRANTES (nome – RM):
+Christopher Takeuti – RM 563318
+Erick Lima – RM 565268
+Luiz Henrique de Almeida – RM 564390
+Mateus Bustamante – RM 564021
+Pedro Lopes – RM 565575
+
+REPOSITÓRIO GITHUB:
+https://github.com/zeniit2/fieldtech-sprint3
