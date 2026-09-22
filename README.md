@@ -146,7 +146,7 @@ ORDER BY operacoes_criticas DESC, temp_maxima_c DESC;
 | SP-280 Castello Branco | 88.0 | 88.8 | 17.0 | 2 | 83.3 | 35 |
 | BR-116 Via Dutra | 163.0 | 164.0 | 15.5 | 2 | 82.6 | 44 |
 
-**Interpretação:** todas as operações críticas aconteceram nos três trechos com inclinação acima de 14°, e em todas elas o motor passou dos 80 °C, bem acima do limite de 70 °C. No trecho da Bandeirantes as 4 operações realizadas foram críticas. Isso orienta a manutenção e a programação: nesses trechos o robô deve trabalhar nas horas mais frescas, em operações mais curtas, e o motor de corte precisa de inspeção antes que uma falha deixe o equipamento parado na beira da pista.
+**Interpretação:** todas as operações críticas aconteceram nos três trechos com inclinação acima de 14°, e nos três a temperatura máxima do motor passou dos 80 °C, bem acima do limite de 70 °C. No trecho da Bandeirantes as 4 operações realizadas foram críticas. Isso orienta a manutenção e a programação: nesses trechos o robô deve trabalhar nas horas mais frescas, em operações mais curtas, e o motor de corte precisa de inspeção antes que uma falha deixe o equipamento parado na beira da pista.
 
 ### Consulta 3 – Quanto foi cortado em cada rodovia em setembro?
 
